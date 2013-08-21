@@ -1,0 +1,27 @@
+(sorry, I can use poor english.)
+
+[Prepare]
+If not exist, regist your twitter client application.
+https://dev.twitter.com/apps/new
+
+[2nd]
+Open SceneDemo.unity.
+
+[3rd]
+Input your [Consumer key] and [Consumer secret] on SysTwitter's property, and save.
+
+[4th]
+Run this scene.
+Click [Get Request Token] button.
+If open browser, certificate your twitter account information.
+
+[5th]
+If you get PIN code, input it on the left side of [Enter PIN] button.
+Click [Enter PIN].
+
+[6th]
+If you get AccessToken and AccessTokenSecret successfully, (See Console Window)
+input tweet text on the left side of [Post Tweet] button.
+Click [Post Tweet].
+
+>>>>> Were you able to tweet successfully? Have fun.
